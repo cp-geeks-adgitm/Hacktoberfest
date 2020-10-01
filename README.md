@@ -22,7 +22,7 @@ Please ensure that you add YOUR username in the command and do this after Forkin
 ### 2. Create a New Branch
 After successfully cloning the repository, you need to now create a separate branch for yourself to not disturb the workflow of the repository. If you aren't already inside the main folder copy this command in terminal and press enter.
 
-`cd Hacktoberfest-2020`
+`cd HacktoberFest`
 
 Now that you are inside the main folder, use this command to create a new branch for yourself.
 
