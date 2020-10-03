@@ -93,6 +93,7 @@ Some important commands that you are going to need are listed below:
 ## Contributors
 Please add your name in the list in the following format:
 
-` - Name - [File Name](File Address)`
+Rishabh Jain : [Kadanes-Algorithm_C++.cpp , Unique-no-from-pairs-by-XOR_C++.cpp , Counting-Sort_C++.cpp , 21-Merge-Two-Sorted-Lists_C++.cpp , 96-Unique-Binary-Search-Trees_C++.cpp]();     
+  ` - Name - [File Name](File Address)`
 
 Please do not spam the repository with unnecessary Pull Requests. Happy Hacking!
