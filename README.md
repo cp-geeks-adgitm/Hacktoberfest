@@ -95,5 +95,7 @@ Please add your name in the list in the following format:
 
 ` - Name - [File Name](File Address)`<br>
 Nikunj Aggarwal - [Binary-search_C++.cpp](Algorithms/Searching/Binary-search_C++.cpp)
+Rutuparna Kudtarkar - [Bresenhams_Line_C.c] (Graphics/Bresenhams_Line_C.C)
+Rutuparna Kudtarkar - [Liang_Barsky_C.c] (Graphics/Liang_Barsky_C.C)
 
 Please do not spam the repository with unnecessary Pull Requests. Happy Hacking!
