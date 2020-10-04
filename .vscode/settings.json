@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "BREHAM.C": "cpp",
+        "LIANGB.C": "cpp",
+        "Bresenhams_Line_C.C": "cpp",
+        "Liang_Barsky_C.C": "cpp"
+    }
+}
