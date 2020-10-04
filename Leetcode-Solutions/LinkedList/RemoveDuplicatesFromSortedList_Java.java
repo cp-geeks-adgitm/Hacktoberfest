@@ -2,10 +2,6 @@ package LinkedList;
 
 public class DeleteDuplicates {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
 	 public ListNode deleteDuplicates(ListNode head) {
 	        if(head==null || head.next==null){
 	            return head;
