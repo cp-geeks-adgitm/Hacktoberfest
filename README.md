@@ -96,5 +96,6 @@ Please add your name in the list in the following format:
 ` - Name - [File Name](File Address)`<br>
 Nikunj Aggarwal - [Binary-search_C++.cpp](Algorithms/Searching/Binary-search_C++.cpp)  
 [Priyank Rastogi](https://github.com/Priyankcoder/) - [standard-template-library](standard-template-library)
+Shubham Goel - [Graph_BFS_Traversal_C++](Data-structures/Graphs/Graph_BFS_Traversal_C++.cpp)
 
 Please do not spam the repository with unnecessary Pull Requests. Happy Hacking!
