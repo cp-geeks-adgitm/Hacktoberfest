@@ -33,6 +33,6 @@ bool compare(vector<int>&A,vector<int>&B)
         }
     }
     return count;
-}
+}};
 
 // Solved using counting and sorting LeetCode1288 in C++
