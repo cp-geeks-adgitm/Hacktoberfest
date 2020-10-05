@@ -1,5 +1,3 @@
-/*  C++ Menu Driven Program for Stack Operations Using Arrays  */
-
 
 #include<stdio.h>
 #include<iostream>
