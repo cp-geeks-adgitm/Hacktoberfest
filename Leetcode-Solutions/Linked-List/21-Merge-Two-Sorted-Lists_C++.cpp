@@ -1,4 +1,3 @@
-
 //Contributed by: Rishabh Jain 
 /**
  * Definition for singly-linked list.
