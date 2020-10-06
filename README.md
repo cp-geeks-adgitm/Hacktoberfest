@@ -93,9 +93,9 @@ Some important commands that you are going to need are listed below:
 ## Contributors
 Please add your name in the list in the following format:
 
-` - Name - [File Name](File Address)`<br>
-Nikunj Aggarwal - [Binary-search_C++.cpp](Algorithms/Searching/Binary-search_C++.cpp)  
-[Priyank Rastogi](https://github.com/Priyankcoder/) - [standard-template-library](standard-template-library) <br>
-[Janit Chawla] - [stackmenudriven.cpp](Data-structures/Stack/stackmenudriven.cpp)
+` - Name `<br>
+[Nikunj Aggarwal](https://github.com/Nikunj-Aggarwal) <br>  
+[Priyank Rastogi](https://github.com/Priyankcoder/)  <br>
+[Janit Chawla] 
 
 Please do not spam the repository with unnecessary Pull Requests. Happy Hacking!
