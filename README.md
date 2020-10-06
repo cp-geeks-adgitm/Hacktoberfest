@@ -94,8 +94,8 @@ Some important commands that you are going to need are listed below:
 Please add your name in the list in the following format:
 
 ` - Name `<br>
-[Nikunj Aggarwal](https://github.com/Nikunj-Aggarwal) <br>  
-[Priyank Rastogi](https://github.com/Priyankcoder/)  <br>
-[Janit Chawla] 
+- [Nikunj Aggarwal](https://github.com/Nikunj-Aggarwal) <br>  
+- [Priyank Rastogi](https://github.com/Priyankcoder/)  <br>
+- [Janit Chawla] 
 
 Please do not spam the repository with unnecessary Pull Requests. Happy Hacking!
