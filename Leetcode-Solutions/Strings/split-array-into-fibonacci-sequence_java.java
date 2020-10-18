@@ -1,4 +1,12 @@
-class Solution {
+package GFG;
+import java.util.*;
+public class FindFibonacciSeqFromString {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	class Solution {
 	    List<Integer> ans;
 	    public List<Integer> splitIntoFibonacci(String s) {
 	      // if(s.charAt(0)=='0')  return new ArrayList<>();
@@ -40,3 +48,5 @@ class Solution {
 	        return false;
 	    }
 	}
+
+}
