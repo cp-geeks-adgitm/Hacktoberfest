@@ -1,9 +1,9 @@
 class Solution {
 public:
-    string toLowerCase(string str) {
-        for(int i=0;i<str.length();i++)
-        {
-            str[i]=tolower(str[i]);
+     string toLowerCase(string str) {
+        int n=str.length();
+        for(int i=0;i<n;i++){
+         str[i]=tolower(str[i]);
         }
         return str;
     }
