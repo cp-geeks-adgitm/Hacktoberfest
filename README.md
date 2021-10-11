@@ -1,15 +1,15 @@
-# Hacktoberfest 2020
+# Hacktoberfest 2021
 
-![Banner](https://embed-fastly.wistia.com/deliveries/49bd387c40e2c5aada92abdf973bc46d.webp?image_crop_resized=960x540)
+![Banner](https://hacktoberfest.digitalocean.com/share-card.png)
 
-## How to Participate in Hacktoberfest 2020?
+## How to Participate in Hacktoberfest 2021?
 ### Register yourself.
 Register yourself [here](https://hacktoberfest.digitalocean.com/) to be eligible to participate in Hacktoberfest. You need to have a GitHub Account to do that.
 
 ### [Additional] Star and Fork this Repository.
 It is pretty easy to do the aforementioned, hover over to the top right corner of this repository to find the buttons to Star and Fork this repository.
 
-![Banner2](https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg)
+![Banner2](https://media.geeksforgeeks.org/wp-content/uploads/20200916112953/HowtoGetStartedWithOpenSourceContribution.png)
 
 ## How to Contribute and Create a PR on this Repository?
 ### 1. Clone this repository.
@@ -95,9 +95,9 @@ Please add your name in the list in the following format:
 
    
  ` - Name`  <br>
--[Nikunj Aggarwal](https://github.com/Nikunj-Aggarwal/)  
--[Priyank Rastogi](https://github.com/Priyankcoder/)  
--Rishabh Jain 
+- [Nikunj Aggarwal](https://github.com/Nikunj-Aggarwal/)  
+- [Priyank Rastogi](https://github.com/Priyankcoder/)
+- [Praveen Chaudhary](README.md)
 
 
 
