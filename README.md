@@ -95,9 +95,10 @@ Please add your name in the list in the following format:
 
    
  ` - Name`  <br>
-- [Nikunj Aggarwal](https://github.com/Nikunj-Aggarwal/)  
-- [Priyank Rastogi](https://github.com/Priyankcoder/)
-- [Praveen Chaudhary](README.md)
+-[Nikunj Aggarwal](https://github.com/Nikunj-Aggarwal/)  
+-[Priyank Rastogi](https://github.com/Priyankcoder/)  
+-Rishabh Jain <br>
+-[Yashi Srivastava](https://github.com/yashii/) 
 
 
 
