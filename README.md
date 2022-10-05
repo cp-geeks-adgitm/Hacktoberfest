@@ -93,14 +93,16 @@ Some important commands that you are going to need are listed below:
 ## Contributors
 Please add your name in the list in the following format:
 
-   
- ` - Name`  <br>
+` - Name - [File Name](File Address)`<br>
+Nikunj Aggarwal - [Binary-search_C++.cpp](Algorithms/Searching/Binary-search_C++.cpp)
+Harshit Malhotra - 1.[Insertion-sort_C++.cpp] (Algorithms/Sorting/Insertion-sort_C++.cpp)
+                   2.[DynamicAllocation2DArrays_C++.cpp] (Data-structures/Arrays/DynamicAllocation2DArrays_C++.cpp)
+                   3.[ReverseArray_C++.cpp] (Data-structures/Arrays/ReverseArray_C++.cpp)
 -[Nikunj Aggarwal](https://github.com/Nikunj-Aggarwal/)  
 -[Priyank Rastogi](https://github.com/Priyankcoder/)  
 -Rishabh Jain 
 -[Anurag Teckchandani](https://github.com/anurag444/)
 -[Yashi Srivastava](https://github.com/yashii/) 
-
 
 
 Please do not spam the repository with unnecessary Pull Requests. Happy Hacking!
