@@ -1,8 +1,8 @@
-# Hacktoberfest 2021
+# Hacktoberfest 2022
 
-![Banner](https://hacktoberfest.digitalocean.com/share-card.png)
+![Banner](./hacktober.webp)
 
-## How to Participate in Hacktoberfest 2021?
+## How to Participate in Hacktoberfest 2022?
 ### Register yourself.
 Register yourself [here](https://hacktoberfest.digitalocean.com/) to be eligible to participate in Hacktoberfest. You need to have a GitHub Account to do that.
 
