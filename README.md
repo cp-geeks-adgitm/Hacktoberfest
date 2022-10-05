@@ -1,15 +1,15 @@
-# Hacktoberfest 2020
+# Hacktoberfest 2022
 
-![Banner](https://embed-fastly.wistia.com/deliveries/49bd387c40e2c5aada92abdf973bc46d.webp?image_crop_resized=960x540)
+![Banner](./hacktober.webp)
 
-## How to Participate in Hacktoberfest 2020?
+## How to Participate in Hacktoberfest 2022?
 ### Register yourself.
 Register yourself [here](https://hacktoberfest.digitalocean.com/) to be eligible to participate in Hacktoberfest. You need to have a GitHub Account to do that.
 
 ### [Additional] Star and Fork this Repository.
 It is pretty easy to do the aforementioned, hover over to the top right corner of this repository to find the buttons to Star and Fork this repository.
 
-![Banner2](https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg)
+![Banner2](https://media.geeksforgeeks.org/wp-content/uploads/20200916112953/HowtoGetStartedWithOpenSourceContribution.png)
 
 ## How to Contribute and Create a PR on this Repository?
 ### 1. Clone this repository.
@@ -98,4 +98,11 @@ Nikunj Aggarwal - [Binary-search_C++.cpp](Algorithms/Searching/Binary-search_C++
 Harshit Malhotra - 1.[Insertion-sort_C++.cpp] (Algorithms/Sorting/Insertion-sort_C++.cpp)
                    2.[DynamicAllocation2DArrays_C++.cpp] (Data-structures/Arrays/DynamicAllocation2DArrays_C++.cpp)
                    3.[ReverseArray_C++.cpp] (Data-structures/Arrays/ReverseArray_C++.cpp)
+-[Nikunj Aggarwal](https://github.com/Nikunj-Aggarwal/)  
+-[Priyank Rastogi](https://github.com/Priyankcoder/)  
+-Rishabh Jain 
+-[Anurag Teckchandani](https://github.com/anurag444/)
+-[Yashi Srivastava](https://github.com/yashii/) 
+
+
 Please do not spam the repository with unnecessary Pull Requests. Happy Hacking!
