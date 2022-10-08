@@ -68,3 +68,7 @@ int main()
 //OUTPUT
 //-1 in binary is 11111111111111111111111111111111
 //The total number of set bits in -1 is 32
+
+//Explanation
+//It is used to find the number of set bits in a number. The idea behind this algorithm is thta when we subtract one from an integer, all the bits following the rightmost set of bits are inverted, turning 1 to 0 and 0 to 1. The rightmost set bit also gets inverted with the bits right to it.
+It is clearly explained in teh algorithm above.
