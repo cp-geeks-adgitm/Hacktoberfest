@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	int T, n, x;
+	cin >> T;
+	while(T --){
+	    cin >> n >> x;
+	    int ans = x;
+	    if(ans > n - x) ans = n - x;
+	    cout << ans << endl;
+	}
+	return 0;
+}
