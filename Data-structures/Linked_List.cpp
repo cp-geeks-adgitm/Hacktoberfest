@@ -45,3 +45,5 @@ int main()
 
      return 0;
 }
+//OUTPUT:
+//30->20->10->NULL
