@@ -109,25 +109,16 @@ int32_t main()
    ios_base::sync_with_stdio(false);
    cin.tie(0);
  
-   int n;
-   cin >> n;
+   int n=5;
  
    subtree.resize(n);
    ans.resize(n);
-   vals.resize(n);
- 
-   for(int i=0;i<n;i++)
-        cin >> vals[i];
- 
-   for(int i=1;i<n;i++)
-   {
-        int u,v;
-        cin >> u >> v;
-        u--;
-        v--;
-        adj[u].pb(v);
-        adj[v].pb(u);
-   }
+   vals={2,3,2,2,1};
+  
+   adj[0].pb(1);
+   adj[0].pb(2);
+   adj[2].pb(3);
+   adj[2].pb(4);
  
    dfs_size(0,-1);
    distinct=0;
