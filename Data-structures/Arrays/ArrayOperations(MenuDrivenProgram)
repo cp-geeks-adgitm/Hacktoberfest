@@ -380,3 +380,92 @@ int main()
     } while (ch < 6);
     return 0;
 }
+
+
+/* Adding some sample input/output 
+Enter Size of Array3
+
+Menu
+1. Insert
+2. Delete
+3. Search
+4. Sum
+5. Display
+6.Exit
+enter you choice 1
+Enter an element and index 2 0
+
+Menu
+1. Insert
+2. Delete
+3. Search
+4. Sum
+5. Display
+6.Exit
+enter you choice 1
+Enter an element and index 4 1
+
+Menu
+1. Insert
+2. Delete
+3. Search
+4. Sum
+5. Display
+6.Exit
+enter you choice 1
+Enter an element and index 3 2
+
+Menu
+1. Insert
+2. Delete
+3. Search
+4. Sum
+5. Display
+6.Exit
+enter you choice 4
+
+Sum is 9
+Menu
+1. Insert
+2. Delete
+3. Search
+4. Sum
+5. Display
+6.Exit
+enter you choice 2
+Enter index 2
+Deleted Element is3
+
+Menu
+1. Insert
+2. Delete
+3. Search
+4. Sum
+5. Display
+6.Exit
+enter you choice 5
+
+Elements are
+2 4
+
+Menu
+1. Insert
+2. Delete
+3. Search
+4. Sum
+5. Display
+6.Exit
+enter you choice 3
+Enter element to search 9
+Element index -1
+
+Menu
+1. Insert
+2. Delete
+3. Search
+4. Sum
+5. Display
+6.Exit
+enter you choice 6
+
+*/
