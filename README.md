@@ -101,6 +101,7 @@ Please add your name in the list in the following format:
 - Rishabh Jain 
 - [Anurag Teckchandani](https://github.com/anurag444/)
 - [Yashi Srivastava](https://github.com/yashii/) 
+- [Devyank Nagpal](https://github.com/2devyank/)
 
 
 Please do not spam the repository with unnecessary Pull Requests. Happy Hacking!
