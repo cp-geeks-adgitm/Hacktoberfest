@@ -101,6 +101,7 @@ Please add your name in the list in the following format:
 - Rishabh Jain 
 - [Anurag Teckchandani](https://github.com/anurag444/)
 - [Yashi Srivastava](https://github.com/yashii/) 
+- Aniket Tripathy - [62_Unique_Paths](https://github.com/heisenberg070/Hacktoberfest/blob/aniket/Leetcode-Solutions/DP/62_Unique_Paths.cpp)
 
 
 Please do not spam the repository with unnecessary Pull Requests. Happy Hacking!
