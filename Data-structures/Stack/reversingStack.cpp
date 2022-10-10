@@ -59,10 +59,8 @@ int main()
     return 0;
 }
 /*
-
 Original Stack
 3 2 1 0
 Reversed Stack
 0 1 2 3
-
 */
