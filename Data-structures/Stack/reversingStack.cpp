@@ -40,7 +40,7 @@ int main()
     stack<int> stack2;
     // push data into stack 1 (demoData-> 0 1 2 3)
     for (int i=0;i<4;i++) {  
-        st.push(i);
+        stack1.push(i);
     }
     
     stack2 = stack1;
