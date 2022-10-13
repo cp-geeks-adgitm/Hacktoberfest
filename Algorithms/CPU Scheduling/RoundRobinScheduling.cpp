@@ -4,8 +4,7 @@ using namespace std;
 
 // Function to find the waiting time for all
 // processes
-void findWaitingTime(int processes[], int n,
-			int bt[], int wt[], int quantum)
+void findWaitingTime(int processes[], int n, int bt[], int wt[], int quantum)
 {
 	// Make a copy of burst times bt[] to store remaining
 	// burst times.
@@ -67,8 +66,7 @@ void findWaitingTime(int processes[], int n,
 }
 
 // Function to calculate turn around time
-void findTurnAroundTime(int processes[], int n,
-						int bt[], int wt[], int tat[])
+void findTurnAroundTime(int processes[], int n, int bt[], int wt[], int tat[])
 {
 	// calculating turnaround time by adding
 	// bt[i] + wt[i]
@@ -77,8 +75,7 @@ void findTurnAroundTime(int processes[], int n,
 }
 
 // Function to calculate average time
-void findavgTime(int processes[], int n, int bt[],
-									int quantum)
+void findavgTime(int processes[], int n, int bt[], int quantum)
 {
 	int wt[n], tat[n], total_wt = 0, total_tat = 0;
 
